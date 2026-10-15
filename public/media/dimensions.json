@@ -1,0 +1,34 @@
+{
+  "ecopart-confirmed.webp": {
+    "width": 390,
+    "height": 844
+  },
+  "ehope-member.webp": {
+    "width": 1600,
+    "height": 4503
+  },
+  "ehope-guest.webp": {
+    "width": 1600,
+    "height": 4890
+  },
+  "ehope-mascot-world.webp": {
+    "width": 1380,
+    "height": 752
+  },
+  "ehope-mascot-empty.webp": {
+    "width": 1380,
+    "height": 752
+  },
+  "ecopart-dark.webp": {
+    "width": 390,
+    "height": 1644
+  },
+  "ecopart-viewing.webp": {
+    "width": 390,
+    "height": 844
+  },
+  "ecopart-home.png": {
+    "width": 285,
+    "height": 1200
+  }
+}
